@@ -1,1 +1,1 @@
-# Dynamic-Programming-and-Stochastic-Modeling-Training
+# Dynamic-Programming-and-Stochastic-Models-Training
